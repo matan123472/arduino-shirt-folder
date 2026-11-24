@@ -10,6 +10,8 @@ A button starts a five-second countdown followed by a three-stage folding sequen
 
 Matan Ratzabi led most of the development, as confirmed by Matan. The project was submitted with Eden Eli.
 
+![Prototype electronics from the recorded demonstration](assets/prototype.png)
+
 ## Implementation
 
 - Arduino Due firmware with `Servo` and `SAMDUE_PWM` libraries.
